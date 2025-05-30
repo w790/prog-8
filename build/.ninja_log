@@ -1,0 +1,4 @@
+# ninja log v6
+10	632	7703312450236956	task1/CMakeFiles/my_app.dir/main.cpp.obj	f412eb030dac70f6
+14	738	7703312450276973	task1/CMakeFiles/my_app.dir/func1.cpp.obj	c6f9b3fb2c94ddea
+738	868	7703312457518853	task1/my_app.exe	295047079b843611

@@ -1,0 +1,8 @@
+C:/study/C++SEM2/lab8/build/CMakeFiles/edit_cache.dir
+C:/study/C++SEM2/lab8/build/CMakeFiles/rebuild_cache.dir
+C:/study/C++SEM2/lab8/build/task1/CMakeFiles/my_app.dir
+C:/study/C++SEM2/lab8/build/task1/CMakeFiles/edit_cache.dir
+C:/study/C++SEM2/lab8/build/task1/CMakeFiles/rebuild_cache.dir
+C:/study/C++SEM2/lab8/build/task2/CMakeFiles/my_app2.dir
+C:/study/C++SEM2/lab8/build/task2/CMakeFiles/edit_cache.dir
+C:/study/C++SEM2/lab8/build/task2/CMakeFiles/rebuild_cache.dir

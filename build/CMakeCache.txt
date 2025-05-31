@@ -250,6 +250,18 @@ LAB8_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 LAB8_SOURCE_DIR:STATIC=C:/study/C++SEM2/lab8
 
+//Path to a library.
+LIB_EAY:FILEPATH=C:/msys64/mingw64/lib/libcrypto.dll.a
+
+//Path to a file.
+OPENSSL_INCLUDE_DIR:PATH=C:/msys64/mingw64/include
+
+//The directory containing a CMake configuration file for OpenCV.
+OpenCV_DIR:PATH=C:/msys64/mingw64/lib/cmake/opencv4
+
+//Path to a library.
+SSL_EAY:FILEPATH=C:/msys64/mingw64/lib/libssl.dll.a
+
 //Value Computed by CMake
 my_app2_BINARY_DIR:STATIC=C:/study/C++SEM2/lab8/build/task2
 
@@ -258,6 +270,15 @@ my_app2_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
 my_app2_SOURCE_DIR:STATIC=C:/study/C++SEM2/lab8/task2
+
+//Value Computed by CMake
+my_app3_BINARY_DIR:STATIC=C:/study/C++SEM2/lab8/build/task3
+
+//Value Computed by CMake
+my_app3_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+my_app3_SOURCE_DIR:STATIC=C:/study/C++SEM2/lab8/task3
 
 //Value Computed by CMake
 my_app_BINARY_DIR:STATIC=C:/study/C++SEM2/lab8/build/task1
@@ -373,7 +394,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=3
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=4
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
@@ -429,6 +450,16 @@ CMAKE_STRIP-ADVANCED:INTERNAL=1
 CMAKE_TAPI-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding OpenCV
+FIND_PACKAGE_MESSAGE_DETAILS_OpenCV:INTERNAL=[C:/msys64/mingw64][v4.10.0()]
+//Details about finding OpenSSL
+FIND_PACKAGE_MESSAGE_DETAILS_OpenSSL:INTERNAL=[C:/msys64/mingw64/lib/libcrypto.dll.a][C:/msys64/mingw64/include][c ][v3.4.0()]
+//ADVANCED property for variable: LIB_EAY
+LIB_EAY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OPENSSL_INCLUDE_DIR
+OPENSSL_INCLUDE_DIR-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: SSL_EAY
+SSL_EAY-ADVANCED:INTERNAL=1
 //linker supports push/pop state
 _CMAKE_CXX_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
 //linker supports push/pop state
